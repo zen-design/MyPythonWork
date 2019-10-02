@@ -1,2 +1,2 @@
 ## 政大108學年第一學期數學軟體應用
-	Git/GitHub
+	Git/GitHub示範
